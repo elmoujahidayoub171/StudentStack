@@ -1,0 +1,8 @@
+base.txt
+data.csv
+provision.log
+report.txt
+
+.vscode/
+__pycache__/
+*.pyc
